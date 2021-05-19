@@ -1,0 +1,23 @@
+body{
+    background-color: azure;
+    text-align: center;
+}
+h1{
+    font-family: 'Pattaya', sans-serif;
+    color:blueviolet;
+}
+h2{
+    font-family:cursive;
+    color: brown;
+}
+p{
+   font-family:cursive;
+    color:crimson;
+font-size: 18px;
+}
+img{
+    width:500px;
+    height:500px;
+    border-radius: 20%;
+    
+}
